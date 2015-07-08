@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/dark_blue"
+    android:id="@+id/frag_drawer_list">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="League Name"
+        android:gravity="center_horizontal"
+        android:id="@+id/league_name"
+        android:textStyle="bold"
+        android:layout_marginTop="6dp"
+        android:textSize="18sp"
+        android:textColor="@color/white" />
+
+    <ListView xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/fragment_drawer_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".fragments.DrawerListFragment" />
+
+</LinearLayout>

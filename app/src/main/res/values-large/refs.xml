@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    Layout alias to replace the single-pane version of the layout with a
+    two-pane version on Large screens.
+
+    For more on layout aliases, see:
+    http://developer.android.com/training/multiscreen/screensizes.html#TaskUseAliasFilters
+    -->
+    <item name="fragment_fixtures" type="layout">@layout/fragment_fixtures_grid</item>
+    <item name="fragment_livescores" type="layout">@layout/fragment_livescores_grid</item>
+    <!--
+    <item name="fragment_fixturedetails" type="layout">@layout/fragment_fixturedetails_grid</item>
+    -->
+</resources>

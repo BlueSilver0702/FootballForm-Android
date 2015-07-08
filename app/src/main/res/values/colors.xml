@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2011 The Android Open Source Project
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#EEEEEE</color>
+    <color name="semi_white">#80FFFFFF</color>
+    <color name="blue_button">#2ba6cb</color>
+    <color name="orange">#ffff7a1c</color>
+
+    <color name="win">#458B00</color>
+    <color name="lost">#FF0000</color>
+    <color name="draw">#FFCC00</color>
+
+    <color name="dark_blue">#17406A</color>
+    <color name="black">#000000</color>
+    <color name="dark_grey">#AAAAAA</color>
+
+    <color name="radio_button_selected_color">@color/white</color>
+    <color name="radio_button_unselected_color">@color/dark_blue</color>
+
+    <color name="yellow">#FFFF00</color>
+
+</resources>
